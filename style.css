@@ -7,10 +7,12 @@
 }
 .fallingLeaves span {
     display: inline-block;
-    width: 60px;
-    height: 60px;
-	margin: -280px 40px 54px  -34px;
-	background:url("CherryBlossoms.png");
+
+    width: 10px;
+    height: 13px;
+	margin: -280px 80px 54px  -34px;
+	background:url("CherryBlossoms 3.png");
+
     
     -webkit-animation: fallingLeaves 10s infinite  linear;
     -moz-animation: fallingLeaves 10s infinite  linear;
