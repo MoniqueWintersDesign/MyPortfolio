@@ -17,17 +17,17 @@ nav{
 nav .logo-img{
   float: left;
   position: relative;
-  margin: 1px 20px 24px 5px;
+  margin: 15px 20px 15px 5px;
 }
-nav .MW-Sig{
+nav .HamburgerMenuBar{
   float: left;
   position: relative;
-  Margin: 1px 20px 24px 5px;
+  Margin: 10px 20px 20px 5px;
 }
 nav .HeaderTitle{
   float: left;
   position: relative;
-  Margin: 5px 1px 20px 24px;
+  Margin: 15px 1px 15px 24px;
 }
 nav ul{
   list-style: none;
